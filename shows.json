@@ -1,0 +1,10 @@
+{
+	"shows": [
+		{"code": "INF", "name": "Infames RP"},
+		{"code": "LDE", "name": "London Eye"},
+		{"code": "ISK", "name": "Serial Killers"},
+		{"code": "LEZ", "name": "La Invasión Zombie"},
+		{"code": "KLG", "name": "Kings League"},
+		{"code": "QLG", "name": "Queens League"}
+	] 
+}

@@ -1,0 +1,195 @@
+﻿..:: CONVENCIONES ::..
+[--ESTADO--] [COD][#NU] NOMBRE - VOD_ID(TIMESTAMP) [CALIDAD]
+
+* [--ESTADO--]	>> Indica el estado del VOD (Directo):
+(FINISH) El directo fue guardado común y corriente, sin chat
+(FINVOD) El directo se descargó con chat
+(QUEUED) El directo está descargándose/convirtiéndose ahora mismo en cola
+(PENDNG) El directo está pendiente por descargar
+(UNRECO) El directo se borró y no es recuperable por ningún medio
+(UPLDED) El directo se descargó con chat, y ha sido subido con éxito al IA
+(UPLDIN) El directo está/estaba subiéndose al IA.
+* [COD]		>> Código del Show:
+[IF]/[INF] Infames RP
+[LE]/[LDE] London Eye
+[NPX] No Pixel ES
+[LEZ] La Invasión Zombie
+[ISK] Serial Killers
+* NOMBRE	>> Indica el nombre sugerido para el episodio
+* VOD_ID	>> Indica el ID del VOD (directo).
+* (TIMESTAMP)	>> Indica si el episodio está dentro de un directo y debe cortarse.
+* [CALIDAD]	>> Indica la calidad en la que se descargó el directo. /* Obsoleto */
+
+---------------------------------------------------------------------------------------------------
+
+---- PRIMERA TANDA ---
+[--FINISH--] El asalto al convoy - 1455833133
+[--FINISH--] El final de... - 1457852491
+[--FINISH--] [LDE][#1] El reencuentro - 1458897736
+[--FINISH--] [LDE][#2] El nuevo empleado - 1459679248
+[--FINISH--] [LDE][#3] Carlo Gambino - 1460815119
+[--FINISH--] Horacio y Volkov (London no funka) - 1461834518
+[--FINISH--] Horacio y Volkov, cómete las tortitas - 1463662212
+[--FINISH--] [LDE][#4] Un nuevo mundo - 1465731647
+[--FINISH--] [LDE][#5] El cebo y el nuevo ritual - 1466571827
+[--FINISH--] [LDE][#6] Un encuentro inesperado - 1468390990
+[--FINISH--] [LDE][#6.5] Un encuentro inesperado - 1468586735
+[--FINISH--] [LDE][#7] Un día triste para... - 1470245730
+
+---- SEGUNDA TANDA ---
+[--FINISH--] [LDE][#08][1651357260] El aniversario de Horacio - 1471311281
+[--FINISH--] [LDE][#09][1651525560] Sale Badu o cita con Michelle - 1473116462
+[--FINISH--] [LDE][#10][1651616340] La decisión de Carlo Gambino - 1474055593
+[--FINISH--] [LDE][#11][1651697820] Los negocios son negocios - 1474886252
+[--FINVOD--] [LDE][#12][1651874160] Elegimos casa / ¡Cuidado con el ruso! - 1476682612
+[--FINVOD--] [LDE][#13][1652046780] Una charla importante - 1478575151
+[--FINVOD--] [LDE][#14][1652219580] Carlo y El Cejas - 1480223573
+[--FINVOD--] [LDE][#15][1652306340] Imparables - 1481107921
+[--FINVOD--] [LDE][#16][1652392080] El casting y negocios - 1481970062
+
+---- TERCERA TANDA ---
+[--FINVOD--] [LDE][#17][1652738340][4:24:02] De vuelta - 1485604996 [720p60]
+[--FINVOD--] [LDE][#18][1652824620][5:01:18] Una fiesta curiosa - 1486468385 [720p60]
+[--FINVOD--] [LDE][#19][1652907840][3:12:44] El anuncio y el primer trato - 1487314009 [720p]
+[--FINVOD--] [LDE][#20][1653257400][3:54:41] La ciudad es nuestra - 1491025738 [720p]
+[--FINVOD--] [LDE][#21][1653872640][2:49:52] El principio del fin de Carlo - 1312547224 [720p60]
+[--FINVOD--] [LDE][#22][1653948240][5:23:00] Carlo vs Volkov - 1313228422 [720p]
+[--FINVOD--] [LDE][#23][1654034580][5:00:28] Un trabajo complicado - 1314101919 [720p60]
+[--FINVOD--] [LDE][#24][1654208400][5:48:28] Un gran trato - 1315882738 [720p60]
+[--FINVOD--] [LDE][#25][1654293660][2:27:14] Horacio y Volkov - 1493511785 [720p60]
+[--FINVOD--] [LDE][#26][1654466280][4:25:24] Asalto a la joyería - 1495482177 [720p]
+[--FINVOD--] [LDE][#27][1654553520][2:41:11] Una reunión importante (Parte 1) - 1496382600 [720p]
+[--FINVOD--] [LDE][#27.5][1654563300][51:24] Una reunión importante (Parte 2) - 1496519147 [720p]
+[--UNRECO--] [LDE][#28][1654720560][6:36:44] Horacio y Carlo - 1498103934
+[--FINVOD--] [LDE][#29][1654812180][4:07:58] ¿Problemas para Carlo? - 1499064502 [720p60]
+[--FINVOD--] [LDE][#30][1654896660][2:39:08] ¿El fin? - 1499943579 [720p60]
+
+---- CUARTA TANDA ---
+[--FINVOD--] [INF][#63][1655074740][3:18:14] La vuelta a casa - 1501905486 [720p]
+[--FINVOD--] [INF][#64][1655159400][2:33:10] Una visita inesperada - 1502746571 [720p]
+[--FINVOD--] [LDE][#31][1655330940][3:56:58] Sin título - 1504546221 [720p60]
+[--FINVOD--] [INF][#65][1655496180][2:45:52] Día de risas o lloros - 1506311679 [720p60]
+[--FINVOD--] [LDE][#32][1655676000][4:06:30] Una reunión difícil - 1508287253 [720p]
+[--FINVOD--] [LDE][#33][1655763660][4:59:09] Un nuevo comienzo - 1509154954 [720p]
+[--FINVOD--] [LNE][#34][1655935200][4:56:05] Me estoy volviendo loco - 1511029311 [720p]
+[--FINVOD--] [INF][#66][1656280860][4:03:13] Evento Pride - 1514807684 [720p]
+[--FINVOD--] [INF][#67][1656367260][4:55:15] El fin de... - 1515693713 [720p]
+[--FINVOD--] [LDE][#35][1656463560][3:22:01] Carlo Gambino y el Evento Pride - 1516785366 [720p]
+[--FINVOD--] [LDE][#36][1656971880][3:48:48] Hablo de mi salud - 1522260910 [720p]
+[--FINVOD--] [LDE][#37][1657058460][4:04:45] Un cargamento peligroso - 1523159801 [720p]
+[--FINVOD--] [LDE][#38][1657148340][4:01:48] Recuerdos del pasado - 1524159604 [720p]
+[--FINVOD--] [LDE][#39][1657310280][8:02:17] Sin título - 1525931790 [480p]
+[--FINVOD--] [INF][#68][1657577160][5:51:18] La boda de Horacio y... - 1528826403 [720p]
+[--FINVOD--] [INF][#69][1657749840][2:51:25] Los nuevos agentes del FBI - 1530733699 [720p]
+
+---- QUINTA TANDA ---
+[--FINVOD--] [INF][#70][1658354820][3:28:25] Un día especial 17 - 1537507224 [720p]
+[--FINVOD--] [LDE][#40][1658440800][4:43:15] Un fantasma del pasado - 1538502620 [720p]
+[--FINVOD--] [INF][#71][1658527620][3:45:54] Lloros y risas - 1539503117 [720p]
+[--FINVOD--] [LDE][#41][1658699940][4:16:33] ¿El fin de Carlo? - 1541478475 [720p]
+[--FINVOD--] [NPX][#01][1658872920][4:10:06] Un nuevo comienzo - 1543415612 [720p]
+[--FINVOD--] [NPX][#02][1658959140][3:47:32] Nuevas caras - 1544412647 [720p]
+[--FINVOD--] [NPX][#03][1659131160][5:19:10] El empleado del mes - 1546377468 [720p]
+[--FINVOD--] [INF][#72][1659304920][3:24:53] El beso de Horacio y Volkov - 1548342672 [720p]
+[--FINVOD--] [NPX][#04][1659393240][4:22:46] Otro reencuentro - 1549293110 [720p]
+[--FINVOD--] [INF][#73][1659736560][3:30:19] La sorpresa de Volkov - 1553157608 [720p]
+[--FINVOD--] [INF][#74][1659910140][3:21:36] Horacio y Volkov - 1555116279 [720p]
+[--FINVOD--] [NPX][#05][1660168800][1:24:18] Se vienen cositas (Parte 1) - 1557970117 [720p]
+[--FINVOD--] [NPX][#05.5][1660174080][1:58:33] Se vienen cositas (Parte 2) - 1558045685 [720p]
+[--FINVOD--] [INF][#75][1660256160][3:37:57] Anuncio importante - 1558960018 [720p]
+[--FINVOD--] [INF][#76][1660428000][3:20:04] El cumple de Volkov - 1560892286 [720p]
+
+---- SEXTA TANDA ---
+[--UNRECO--] [INF][#77][1660675200][1:28:47] Sin título - 1563572431(4h39m57s-END) [1080p]
+[--UNRECO--] [INF][#78][1661204760][2:26:38] Horacio y Volkov - 1569448470(START-2h26m38s) [1080p]
+[--UNRECO--] [INF][#79][1661540340][1:09:22] Sin título - 1573091709(4h35m18s-END) [720p]
+[--FINVOD--] [INF][#80][1663531500][1:42:39] Evento - 1594524926(3h17m35s-END) [720p]
+
+---- SEPTIMA TANDA ---
+[--FINVOD--] [ISK][#01.0][1665357360][2:43:40] Serial Killers - 1619748072 [720p60]
+[--FINVOD--] [LEZ][#01.0][1665525540][3:03:16] Una nueva aventura - 1621408633 [720p60]
+[--FINVOD--] [ISK][#02.0][1665871860][2:19:50] Serial Killers - 1625070481(START-2h19m50s) [720p60]
+[--FINVOD--] [LEZ][#02.0][1665871860][1:45:05] La invasión - 1625070481(2h19m50s-END) [720p60]
+[--FINVOD--] [LEZ][#03.0][1666303620][3:03:40] Peligro en la ciudad - 1629492867 [720p60]
+[--FINVOD--] [ISK][#03.0][1666382340][2:05:55] Serial Killers - 1630329872(2h9m50s-END) [720p60]
+[--UNRECO--] [LEZ][#04.0][1666650120][4:01:24] No estoy sucio - 1633259752 [720p60]
+[--FINVOD--] [ISK][#04.0][1666825860][2:21:10] Horacio y Volkov en problemas - 1635097595 [720p60]
+[--FINVOD--] [ISK][#05.0][1667253360][3:32:02] Carlo Gambino y Los Bombis - 1639694601 [720p60]
+[--FINVOD--] [LEZ][#05.0][1667592480][3:15:06] El pasado me persigue - 1643252855 [720p60]
+[--UPLDED--] [INF][#86.0][1668038580][1:48:30] Una gran pérdida - 1648027645 [720p60]
+
+---- OCTAVA TANDA ---
+[--UPLDED--] [INF][#87.0][1668269820][1:13:31] El pasado de Horacio - 1650746939(2h03m39s-03h17m10s)
+[--UPLDED--] [INF][#88.0][1668451552][2:42:12] Una visita inesperada - 1652699781
+[--UPLDED--] [INF][#89.0][1668795898][0:16:34] La decisión de Horacio (Parte 1) - 1656326669
+[--UNRECO--] [INF][#90.0][1668796939][2:03:26] La decisión de Horacio (Parte 2) - 1656340309
+[--FINVOD--] [LEZ][#06.0][1669054427][4:22:08] Sin título - 1659126070
+[--UPLDED--] [INF][#91.0][1669142308][2:36:14] ¿Horacio bueno o malo? - 1660000995
+[--FINVOD--] [INF][#92.0][1669396825][6:46:58] Lloros H - 1662415106
+[--FINVOD--] [INF][#93.0][1669497024][4:34:49] Sin título - 1663501059
+[--FINVOD--] [INF][#94.1][1669583008][3:02:22] Horacio y Volkov - 1664403343(0h00m00s-03h02m22s)
+[--FINVOD--] [INF][#94.2][1669583008][0:57:30] Brasil Mundo Real RP: Sin título - 1664403343(03h02m22s-03h59m52s)
+[--FINVOD--] [INF][#95.1][1669649041][5:56:25] Especial 12 horas - 1664948008(5h35m08s-11h31m33s)
+[--FINVOD--] [INF][#95.2][1669649041][1:37:04] La Rumba Roleplay: Sin título - 1664948008(11h31m33s-13h08m37s)
+[--FINVOD--] [INF][#96.1][1669743165][2:25:47] Origen Los Santos RP: Una nueva historia de Navidad - 1665858914(0h00m00s-2h25m47s)
+[--FINVOD--] [INF][#96.2][1669743165][4:08:46] Sin título - 1665858914(2h25m46s-6h34m32s)
+[--FINVOD--] [INF][#96.3][1669743165][1:53:04] Perú Deluxe RP: Sin título - 1665858914(6h34m32s-08h27m36s)
+
+---- NOVENA TANDA ---
+[--FINVOD--] [INF][#97.0][1670431986][1:09:01] Playero RP: Sin título - 1672788835(4h10m47s-05h19m48s)
+[--FINVOD--] [INF][#98.0][1670523495][3:56:34] Noche en la ciudad - 1673730346
+[--FINVOD--] [INF][#99.0][1670610375][2:26:08] ¿Lloros? - 1674593982(1h6m0s-03h32m08s)
+[--FINVOD--] [INF][#100.0][1670871245][3:30:00] Horacio y Volkov: Navidad - 1677284558
+
+---- DECIMA TANDA ---
+[--QUEUED--] [INF][#103.0][1671215831][4:55:10] Sigue el chisme - 1680739197
+[--FINVOD--] [INF][#104.0][1671372162][2:45:46] Directo especial - 1682388528(5h49m46s-08h35m32s)
+[--FINVOD--] [INF][#105.0][1671822224][3:52:48] Horacio y el evento especial de navidad - 1687008667
+[--UNRECO--] [INF][#106.0][1672081314][3:30:52] El secuestro de Horacio - 1689368444
+[--UNRECO--] [INF][#107.0][1672253577][3:11:24] Horacio y el Proyecto XY - 1691202388
+[--UNRECO--] [INF][#108.0][1672334608][2:44:50] El Proyecto XY - 1692080658(0h00m00s-02h44m50s)
+[--UNRECO--] [INF][#109.0][1672855589][3:04:38] Un amigo necesita ayuda - 1697562333
+[--UNRECO--] [INF][#110.0][1672941801][3:19:36] La misión especial de H - 1698512078
+[--UNRECO--] [INF][#111.0][1673118405][5:58:46] Ataque en la ciudad - 1700579360
+[--UNRECO--] [INF][#112.0][1673542552][2:22:57] CK a Andrés - 1705224695(03h02m25s-05h25m22s)
+[--UNRECO--] [INF][#113.0][1678301658][3:10:30] El nuevo FBI - 1759343243(0h00m00s-03h10m30s)
+[--FINVOD--] [ONY][#01.0][1678384945][3:50:48] Carlo y Golondrina - 1760206819
+[--UPLDED--] [INF][#114.0][1682355492][2:06:13] Se acerca el cumple de Horacio - 1802467216(0h00m00s-2h6m13s)
+[--UPLDED--] [INF][#115.0][1682443246][4:10:24] 5 días para el cumple de Horacio - 1803331389
+[--UPLDED--] [INF][#116.0][1682530212][3:05:44] 4 días para el cumple de Horacio - 1804206960
+[--UPLDED--] [INF][#117.0][1682701573][3:05:06] La visita - 1805916906
+[--UPLDED--] [INF][#118.0][1682873386][3:03:26] El cumpleaños de Horacio - 1807813296(0h00m00s-3h3m26s)
+[--UNRECO--] [INF][#119.0][1683125927][1:47:53] Sin título - 1810377591(01h56m40s-03h44m33s)
+[--UPLDED--] [INF][#120.0][1683651809][3:26:14] Un duro enfrentamiento - 1815574104
+[--UNRECO--] [INF][#121.0][1683753493][3:19:20] Noche con Horacio - 1816608986
+[--UPLDED--] [INF][#122.0][1683907076][3:10:32] Tarde con el ruso - 1818028093
+[--UPLDED--] [INF][#123.0][1684254990][4:05:52] Un ataque a la sede _ FiveM Torcidas Roleplay - 1821461036
+[--UNRECO--] [INF][#124.0][1684342292][4:04:36] Horacio y tu ruso de confianza - 1822298924
+[--UPLDED--] [INF][#125.0][1684432810][3:12:38] Noche de bochilocura - 1823194708
+[--UPLDED--] [INF][#125.5][1684607682][1:37:26] Sin título - 1824953008(01h42m32s-03h19m58s)
+[--UPLDED--] [INF][#126.0][1684793440][1:18:54] El vestido de boda (Parte 1) - 1826800414
+[--UPLDED--] [INF][#126.5][1684798200][2:01:18] El vestido de boda (Parte 2) - 1826857917
+[--UPLDED--] [QLG][#03.0][1684607682][1:42:32] Las Troncas FC vs Pio FC - 1824953008(0h00m00s-01h42m32s)
+[--UNRECO--] [KLG][#03.0][1684694549][1:26:46] Los Troncos FC vs Porcinos FC - 1825851806
+[--UPLDED--] [INF][#127.0][1684951042][4:17:24] ¡Hoy sí, el vestido de boda! - 1828256438
+[--UPLDED--] [INF][#128.0][1685133704][3:20:16] ¿Hay boda? - 1830050388
+[--UPLDED--] [QLG][#04.0][1685202181][1:11:12] Las Troncas FC vs 1K FC - 1830711687
+[--UPLDED--] [KLG][#04.0][1685284991][1:12:10] Los Troncos FC vs Jijantes FC - 1831537272
+[--UPLDED--] [INF][#129.0][1685396303][3:20:38] ¿Se cancela la boda? - 1832692379
+[--UPLDED--] [INF][#130.0][1685455469][3:21:04] La boda - 1833186399(03h08m32s-06h29m36s)
+[--UNRECO--] [INF][#131.0][1685736972][2:28:54] Una charla importante - 1836017749
+[--UNRECO--] [QLG][#05.0][1685810540][1:21:36] Las Troncas FC vs Aniquiladoras FC - 1836763599
+[--UNRECO--] [KLG][#05.0][1685896800][1:28:28] Los Troncos FC vs Ultimate Móstoles - 1837661330
+[--UNRECO--] [INF][#132.0][1686000685][3:28:52] Sin título - 1838695311
+[--UPLDED--] [INF][#133.0][1686074577][3:32:26] ¿Hay boda? - 1839386542
+[--UNRECO--] [INF][#134.0][1686243710][4:18:02] Una visita inesperada de los polacos - 1841056624
+[--UNRECO--] [KLG][#06.0][1686490137][1:55:12] Los Troncos FC vs 1K FC - 1843544908
+[--UPLDED--] [QLG][#06.0][1687019651][1:58:06] Las Troncas FC vs Porcinas FC - 1848713672
+[--UPLDED--] [KLG][#07.0][1687095690][1:23:46] Los Troncos FC vs El Barrio - 1849453070
+[--UNRECO--] [INF][#135.0][1687197078][4:18:10] Un regalo de papá y mamá - 1850400513
+[--UNRECO--] [INF][#136.0][1687281738][4:03:34] ¿Cita o problemas? - 1851220088
+[--UPLDED--] [KLG][#08.0][1687699690][1:36:06] Los Troncos FC vs Saiyans FC - 1855421232
+[--UNRECO--] [INF][#137.0][1687725490][2:25:32] Evento PRIDE - 1855733765
+[--UNRECO--] [QLG][#08.0][1687806009][1:17:00] Las Troncas FC vs Rayo de Barcelona - 1856474046
+
+Última vez actualizado: 22/07/2023 10:57:25 (Hora est. Pacífico, Sudamérica)
